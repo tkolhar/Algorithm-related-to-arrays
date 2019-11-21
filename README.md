@@ -1,2 +1,2 @@
-# Sort_Non_Negative
- Sort non negative integers in an array
+# Algorithms related to array 
+This repository contains algorithms related to array elements
